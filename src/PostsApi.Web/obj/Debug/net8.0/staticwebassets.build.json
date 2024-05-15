@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "aMHxoCbHYU07dNuOqw+n2KOW4ZzSyKXIakzij4ALBb4=",
+  "Source": "PostsApi.Web",
+  "BasePath": "_content/PostsApi.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PostsApi.Web/wwwroot",
+      "Source": "PostsApi.Web",
+      "ContentRoot": "/Users/ritechal/PostsApi/src/PostsApi.Web/wwwroot/",
+      "BasePath": "_content/PostsApi.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ritechal/PostsApi/src/PostsApi.Web/wwwroot/.DS_Store",
+      "SourceId": "PostsApi.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ritechal/PostsApi/src/PostsApi.Web/wwwroot/",
+      "BasePath": "_content/PostsApi.Web",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Users/ritechal/PostsApi/src/PostsApi.Web/wwwroot/api/specification.json",
+      "SourceId": "PostsApi.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ritechal/PostsApi/src/PostsApi.Web/wwwroot/",
+      "BasePath": "_content/PostsApi.Web",
+      "RelativePath": "api/specification.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/api/specification.json"
+    },
+    {
+      "Identity": "/Users/ritechal/PostsApi/src/PostsApi.Web/wwwroot/favicon.ico",
+      "SourceId": "PostsApi.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ritechal/PostsApi/src/PostsApi.Web/wwwroot/",
+      "BasePath": "_content/PostsApi.Web",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}

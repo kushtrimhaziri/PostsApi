@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/PostsApi.Web.props" />
+</Project>

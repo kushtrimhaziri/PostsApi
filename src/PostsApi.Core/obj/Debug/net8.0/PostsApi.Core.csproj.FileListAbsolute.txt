@@ -1,0 +1,12 @@
+/Users/ritechal/PostsApi/src/PostsApi.Core/bin/Debug/net8.0/PostsApi.Core.deps.json
+/Users/ritechal/PostsApi/src/PostsApi.Core/bin/Debug/net8.0/PostsApi.Core.dll
+/Users/ritechal/PostsApi/src/PostsApi.Core/bin/Debug/net8.0/PostsApi.Core.pdb
+/Users/ritechal/PostsApi/src/PostsApi.Core/obj/Debug/net8.0/PostsApi.Core.csproj.AssemblyReference.cache
+/Users/ritechal/PostsApi/src/PostsApi.Core/obj/Debug/net8.0/PostsApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ritechal/PostsApi/src/PostsApi.Core/obj/Debug/net8.0/PostsApi.Core.AssemblyInfoInputs.cache
+/Users/ritechal/PostsApi/src/PostsApi.Core/obj/Debug/net8.0/PostsApi.Core.AssemblyInfo.cs
+/Users/ritechal/PostsApi/src/PostsApi.Core/obj/Debug/net8.0/PostsApi.Core.csproj.CoreCompileInputs.cache
+/Users/ritechal/PostsApi/src/PostsApi.Core/obj/Debug/net8.0/PostsApi.Core.dll
+/Users/ritechal/PostsApi/src/PostsApi.Core/obj/Debug/net8.0/refint/PostsApi.Core.dll
+/Users/ritechal/PostsApi/src/PostsApi.Core/obj/Debug/net8.0/PostsApi.Core.pdb
+/Users/ritechal/PostsApi/src/PostsApi.Core/obj/Debug/net8.0/ref/PostsApi.Core.dll
